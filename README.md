@@ -1,5 +1,6 @@
 <h2> Timeline of the Middle Ages</h2>
 
+
 <h3><span id="5th_and_6th_centuries" class="mw-headline">5th and 6th centuries</span></h3>
 <table class="wikitable">
 <tbody>
